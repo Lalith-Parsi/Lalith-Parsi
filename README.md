@@ -90,27 +90,6 @@ Kibox helps households, restaurants, and food businesses track pantry stock, red
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalith-Parsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Lalith-Parsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith-Parsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalith-Parsi&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
