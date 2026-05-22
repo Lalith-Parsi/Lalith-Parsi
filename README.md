@@ -41,6 +41,7 @@ Kibox helps households, restaurants, and food businesses track pantry stock, red
 
 **Stack:** Spring Boot · React 18 · PostgreSQL · OpenAI GPT-4o · JWT Auth · Docker · Tailwind CSS
 
+[![Kibox Website](https://img.shields.io/badge/Website-kiboxofficial.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://www.kiboxofficial.com)
 [![Kibox Repo](https://img.shields.io/badge/GitHub-Kibox-1C3C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lalith-Parsi)
 
 ---
