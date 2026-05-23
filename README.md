@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Lalith+Parsi+%F0%9F%91%8B;AI%2FML+Engineer+%7C+GenAI+Builder;RAG+%7C+LLMs+%7C+MLOps+Specialist;Building+AI+that+Actually+Works+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lalith-Parsi&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
 ---
 
 ## 🧠 About Me
